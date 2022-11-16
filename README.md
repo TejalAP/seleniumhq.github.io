@@ -6,7 +6,7 @@
 
 This is the repository used to build and publish the official Selenium [website](https://selenium.dev).
 
-## Quick start
+## Quick start again
 
 We use [Hugo](https://gohugo.io/) and the [Docsy theme](https://www.docsy.dev/)
 to build and render the site. You will need the “extended” 
